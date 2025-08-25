@@ -7,8 +7,6 @@ __Guion__
 - Cambio realizado: Guion -> Guión
 - Justificación: Falta de un signo diacrítico
 
-Falta de acento diacrítico en Introduccion
-
 __Introduccion__
 
 - Herramienta utilizada: LenguageTool
