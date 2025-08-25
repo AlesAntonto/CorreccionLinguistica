@@ -25,7 +25,7 @@ El **SGI** es una aplicación diseñada para pequeñas y medianas empresas. Se r
    - Usuario: 'admin'
    - Contraseña: '1234'  
 
-3. Si el **usuario** olvida la **contraseña debe comunicarse con el administrador de red.  
+3. Si el **usuario** olvida la **contraseña** debe comunicarse con el administrador de red.  
 
 **Nota:** Por **seguridad**, no comparta su **contraseña** con otros empleados.  
 
