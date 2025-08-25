@@ -10,8 +10,8 @@ El **SGI** es una aplicación diseñada para pequeñas y medianas empresas. Se r
 ## Requerimientos del sistema  
 
 - Computadora con sistema operativo Windows 7 o superior.  
-- Memoria RAM de 4 GB minimo (8 GB recomendable).  
-- Conexion estable a internet.  
+- Memoria RAM de 4 GB mínimo (8 GB recomendable).  
+- Conexón estable a internet.  
 - El programa debe estar **instaldo** en cada **computadoras** que usen el sistema.  
 
 ---
