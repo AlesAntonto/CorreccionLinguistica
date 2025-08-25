@@ -48,13 +48,13 @@ El **SGI** es una aplicación diseñada para pequeñas y medianas empresas. Se r
 
 ---
 
-## Generar Reportes  
+## Generar reportes  
 
 El sistema permite crear reportes de productos registrados y existencias en almacén. Para generar un reporte:  
 
-1. Ingrese a la seccion **Reportes**.  
+1. Ingrese a la sección **Reportes**.  
 2. Seleccione el tipo de reporte (Inventario total, ventas, bajas).  
-3. **Precione** **Generar**.  
+3. **Presione** **Generar**.  
 
 El reporte se descargará en formato **PDF**.  
 
