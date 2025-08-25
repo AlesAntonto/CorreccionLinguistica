@@ -19,15 +19,15 @@ El **SGI** es una aplicación diseñada para pequeñas y medianas empresas. Se r
 ## Ingreso al sistema  
 
 1. Abra el programa desde el icono en el escritorio.  
-2. **Inttroduzca** su nombre de **usario** y **contrasenia**.  
+2. **Introduzca** su nombre de **usario** y **contrasenia**.  
 
    **Ejemplo:**  
-   - Usuario: `admin`  
-   - Contrasenia: `1234`  
+   - Usuario: 'admin'
+   - Contrasenia: '1234'  
 
-3. Si el **usario** olvida la **contrasenia**, debe comunicarse con el administrador de red.  
+3. Si el **usuario** olvida la **contraseña debe comunicarse con el administrador de red.  
 
-**Nota:** Por **segurida**, no comparta su **contrasenia** con otros empleados.  
+**Nota:** Por **seguridad**, no comparta su **contraseña** con otros empleados.  
 
 ---
 
