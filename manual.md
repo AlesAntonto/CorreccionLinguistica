@@ -2,7 +2,7 @@
 
 ## Introducción  
 
-Este manual describe el uso basico del Sistema de Gestión de Inventarios (SGI). El objetivo es guiar al **usuario** en las funciones principales, como agregar productos, consultar **existencias** y generar reportes.  
+Este manual describe el uso básico del Sistema de Gestión de Inventarios (SGI). El objetivo es guiar al **usuario** en las funciones principales, como agregar productos, consultar **existencias** y generar reportes.  
 El **SGI** es una aplicación diseñada para pequeñas y medianas empresas. Se recomienda que cada **usuario** lea cuidadosamente este manual antes de empezar a utilizar el sistema.  
 
 ---
@@ -11,15 +11,15 @@ El **SGI** es una aplicación diseñada para pequeñas y medianas empresas. Se r
 
 - Computadora con sistema operativo Windows 7 o superior.  
 - Memoria RAM de 4 GB mínimo (8 GB recomendable).  
-- Conexón estable a Internet.  
-- El programa debe estar **instlado** en cada **computadora** que use el sistema.  
+- Conexión estable a Internet.  
+- El programa debe estar **instalado** en cada **computadora** que use el sistema.  
 
 ---
 
 ## Ingreso al sistema  
 
 1. Abra el programa desde el icono en el escritorio.  
-2. **Introduzca** su nombre de **usario** y **contrasenia**.  
+2. **Introduzca** su nombre de **usuario** y **contraseña**.  
 
    **Ejemplo:**  
    - Usuario: 'admin'
@@ -33,7 +33,7 @@ El **SGI** es una aplicación diseñada para pequeñas y medianas empresas. Se r
 
 ## Agregar un nuevo producto  
 
-1. En el **menu principal**, seleccione 'Inventario → Agregar producto'.  
+1. En el **menú principal**, seleccione 'Inventario → Agregar producto'.  
 2. Completé los campos obligatorios:  
    - Nombre del producto  
    - Cantidad  
