@@ -18,3 +18,9 @@ __basico__
 - Herramienta utilizada: LenguageTool
 - Cambio realizado: basico -> básico
 - Justificación: Falta de un signo diacrítico.
+
+__usuairo__
+
+- Herramienta utilizada: LenguageTool
+- Cambio realizado: usuairo -> usuario
+- Justificación: Corrección ortográfica.
