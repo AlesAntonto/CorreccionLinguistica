@@ -1,69 +1,69 @@
-# Manual de Usuario – Sistema de Gestion de Inventarios
+# Manual de Usuario – Sistema de Gestión de Inventarios
 
-## Introduccion  
+## Introducción  
 
-Este manual describe el uso basico del Sistema de Gestion de Inventarios (SGI). El objetivo es guiar al **usuairo** en las funciones principales, como agregar productos, consultar **eccistencias** y generar reportes.  
-El **SGI** es una aplicacion diseñada para pequeñas y medianas empresas. Se recomienda que cada **usuarios** lea cuidadosamente este manual antes de empezar a utilizar el sistema.  
+Este manual describe el uso básico del Sistema de Gestión de Inventarios (SGI). El objetivo es guiar al **usuario** en las funciones principales, como agregar productos, consultar **existencias** y generar reportes.  
+El **SGI** es una aplicación diseñada para pequeñas y medianas empresas. Se recomienda que cada **usuario** lea cuidadosamente este manual antes de empezar a utilizar el sistema.  
 
 ---
 
 ## Requerimientos del sistema  
 
 - Computadora con sistema operativo Windows 7 o superior.  
-- Memoria RAM de 4GB minimo (8 GB recomendable).  
-- Conexion estable a internet.  
-- El programa debe estar **instaldo** en cada **computadoras** que usen el sistema.  
+- Memoria RAM de 4 GB mínimo (8 GB recomendable).  
+- Conexión estable a Internet.  
+- El programa debe estar **instalado** en cada **computadora** que use el sistema.  
 
 ---
 
 ## Ingreso al sistema  
 
 1. Abra el programa desde el icono en el escritorio.  
-2. **Inttroduzca** su nombre de **usario** y **contrasenia**.  
+2. **Introduzca** su nombre de **usuario** y **contraseña**.  
 
    **Ejemplo:**  
-   - Usuario: `admin`  
-   - Contrasenia: `1234`  
+   - Usuario: 'admin'
+   - Contraseña: '1234'  
 
-3. Si el **usario** olvida la **contrasenia**, debe comunicarse con el administrador de red.  
+3. Si el **usuario** olvida la **contraseña** debe comunicarse con el administrador de red.  
 
-**Nota:** Por **segurida**, no comparta su **contrasenia** con otros empleados.  
+**Nota:** Por **seguridad**, no comparta su **contraseña** con otros empleados.  
 
 ---
 
 ## Agregar un nuevo producto  
 
-1. En el **menu princial**, seleccione `Inventario → Agregar producto`.  
-2. Complete los campos obligatorios:  
+1. En el **menú principal**, seleccione 'Inventario → Agregar producto'.  
+2. Completé los campos obligatorios:  
    - Nombre del producto  
    - Cantidad  
    - Precio unitario  
-   - Categoria (Ejemplo: **electronicos**, **papeleria**, etc.)  
-3. Presione el boton **Guardar**.  
+   - Categoría (Ejemplo: **electrónicos**, **papelería**, etc.)  
+3. Presione el botón **Guardar**.  
 
 **Errores comunes:**  
 - Escribir el precio con comas en lugar de puntos.  
 - No llenar todos los campos obligatorios.  
-- Cerrar el programa antes de presionar guardar, lo que puede perder datos.  
+- Cerrar el programa antes de presionar guardar, lo que puede provocar perdida de datos.  
 
 ---
 
-## Generar Reportes  
+## Generar reportes  
 
 El sistema permite crear reportes de productos registrados y existencias en almacén. Para generar un reporte:  
 
-1. Ingrese a la seccion **Reportes**.  
+1. Ingrese a la sección **Reportes**.  
 2. Seleccione el tipo de reporte (Inventario total, ventas, bajas).  
-3. **Precione** **Generar**.  
+3. **Presione** **Generar**.  
 
 El reporte se descargará en formato **PDF**.  
 
 ---
 
-## Soporte Tecnico  
+## Soporte Técnico  
 
-Si el programa no funciona **correctamnete** o **precenta** errores:  
+Si el programa no funciona **correctamente** o **presenta** errores:  
 
-- Revise primero su **conexion de interent**.  
+- Revise primero su **conexión de Internet**.  
 - Reinicie la computadora.  
 - Contacte al departamento de soporte al correo: [soporte@sgi.com](mailto:soporte@sgi.com)  
