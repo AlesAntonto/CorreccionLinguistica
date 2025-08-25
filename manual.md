@@ -60,10 +60,10 @@ El reporte se descargará en formato **PDF**.
 
 ---
 
-## Soporte Tecnico  
+## Soporte Técnico  
 
 Si el programa no funciona **correctamnete** o **precenta** errores:  
 
-- Revise primero su **conexion de interent**.  
+- Revise primero su **conexión de interent**.  
 - Reinicie la computadora.  
 - Contacte al departamento de soporte al correo: [soporte@sgi.com](mailto:soporte@sgi.com)  
