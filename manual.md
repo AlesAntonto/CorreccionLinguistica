@@ -33,7 +33,7 @@ El **SGI** es una aplicación diseñada para pequeñas y medianas empresas. Se r
 
 ## Agregar un nuevo producto  
 
-1. En el **menu princial**, seleccione `Inventario → Agregar producto`.  
+1. En el **menu principal**, seleccione 'Inventario → Agregar producto'.  
 2. Complete los campos obligatorios:  
    - Nombre del producto  
    - Cantidad  
