@@ -64,6 +64,6 @@ El reporte se descargará en formato **PDF**.
 
 Si el programa no funciona **correctamente** o **presenta** errores:  
 
-- Revise primero su **conexión de Interent**.  
+- Revise primero su **conexión de Internet**.  
 - Reinicie la computadora.  
 - Contacte al departamento de soporte al correo: [soporte@sgi.com](mailto:soporte@sgi.com)  
