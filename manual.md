@@ -23,7 +23,7 @@ El **SGI** es una aplicación diseñada para pequeñas y medianas empresas. Se r
 
    **Ejemplo:**  
    - Usuario: 'admin'
-   - Contrasenia: '1234'  
+   - Contraseña: '1234'  
 
 3. Si el **usuario** olvida la **contraseña debe comunicarse con el administrador de red.  
 
@@ -44,7 +44,7 @@ El **SGI** es una aplicación diseñada para pequeñas y medianas empresas. Se r
 **Errores comunes:**  
 - Escribir el precio con comas en lugar de puntos.  
 - No llenar todos los campos obligatorios.  
-- Cerrar el programa antes de presionar guardar, lo que puede provocar perdida datos.  
+- Cerrar el programa antes de presionar guardar, lo que puede provocar perdida de datos.  
 
 ---
 
