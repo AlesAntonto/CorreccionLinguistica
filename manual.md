@@ -2,7 +2,7 @@
 
 ## Introducción  
 
-Este manual describe el uso básico del Sistema de Gestion de Inventarios (SGI). El objetivo es guiar al **usuairo** en las funciones principales, como agregar productos, consultar **eccistencias** y generar reportes.  
+Este manual describe el uso básico del Sistema de Gestion de Inventarios (SGI). El objetivo es guiar al **usuarui** en las funciones principales, como agregar productos, consultar **eccistencias** y generar reportes.  
 El **SGI** es una aplicacion diseñada para pequeñas y medianas empresas. Se recomienda que cada **usuarios** lea cuidadosamente este manual antes de empezar a utilizar el sistema.  
 
 ---
