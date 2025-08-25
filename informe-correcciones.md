@@ -13,8 +13,6 @@ __Introduccion__
 - Cambio realizado: Introduccion -> Introducción
 - Justificación: Falta de un signo diacrítico.
 
-Falta de acento diacrítico en basico en la Introducción
-
 __basico__
 
 - Herramienta utilizada: LenguageTool
