@@ -1,4 +1,4 @@
-# CorreccionLinguistica
+# Herramientas de Corrección Lingüística
 
 ## Sub-equipo conformado por:
 
