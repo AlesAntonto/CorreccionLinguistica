@@ -82,9 +82,3 @@
 - Se mejoró la concordancia gramatical en frases con singular/plural.  
 - Se normalizó el uso de mayúsculas en títulos y nombres de secciones.  
 - Algunas sugerencias de LanguageTool sobre reformulación de frases largas fueron **rechazadas** para mantener la estructura original del manual y no alterar su contenido técnico.  
-
----
-
-## Conclusión
-La aplicación de **LanguageTool** permitió mejorar la calidad del manual en aspectos de ortografía, gramática y estilo.  
-Con estas correcciones, el documento resulta más claro, formal y profesional, lo cual es importante para un manual técnico que debe ser fácil de entender por distintos usuarios.  
