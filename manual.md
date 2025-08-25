@@ -34,12 +34,12 @@ El **SGI** es una aplicación diseñada para pequeñas y medianas empresas. Se r
 ## Agregar un nuevo producto  
 
 1. En el **menu principal**, seleccione 'Inventario → Agregar producto'.  
-2. Complete los campos obligatorios:  
+2. Completé los campos obligatorios:  
    - Nombre del producto  
    - Cantidad  
    - Precio unitario  
-   - Categoria (Ejemplo: **electronicos**, **papeleria**, etc.)  
-3. Presione el boton **Guardar**.  
+   - Categoría (Ejemplo: **electrónicos**, **papelería**, etc.)  
+3. Presione el botón **Guardar**.  
 
 **Errores comunes:**  
 - Escribir el precio con comas en lugar de puntos.  
